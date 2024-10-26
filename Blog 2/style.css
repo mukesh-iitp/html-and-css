@@ -1,0 +1,49 @@
+P{ 
+/*    color: blue;*/
+    font-size: 20px;
+/*    font-style: serif;*/
+/*    font-family: sans-serif;*/
+}
+
+h1{
+    font-size: 40px;
+/*    font-family: sans-serif;*/
+}
+
+/*GROUPING*/
+p,h1{
+    font-family: sans-serif;
+}
+
+/*h4{
+    text-transform: uppercase;
+}*/
+
+/*.uppercase{
+    text-transform: uppercase;
+}
+
+.cursive{
+    font-family: cursive;
+}*/
+
+/*NESTING*/
+li h4{
+    text-transform: uppercase;
+    font-family: cursive;
+}
+
+#site-desc p {
+
+    color: red;
+}
+
+#blog-desc{
+
+    color: #25932a;
+}
+
+/*ZERO CLASS : It represent state */
+#blog-title:hover{
+    color: orange;
+}
