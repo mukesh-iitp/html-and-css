@@ -1,0 +1,20 @@
+#container{
+    height: 400px;
+    width: 400px;
+    margin: 40px;
+    border: 2px solid black;
+    /*background-image: linear-gradient(-120deg, red, cyan, blue );*/
+    /*background: repeating-linear-gradient(to top right, red, blue 10px);*/
+    /*background: radial-gradient(red, cyan, blue);*/
+
+
+/*    background-image: linear-gradient(red,cyan 50%, blue 110%);*/
+/*    background-image: linear-gradient(red,cyan, blue 200px);*/
+/*    background-image: linear-gradient(to top right, red, cyan, blue 200px);*/
+/*    background-image: linear-gradient( -120deg, red, cyan, blue 200px);*/
+/*    background: repeating-linear-gradient(to top right, red, blue 10px);*/
+/*    background: radial-gradient(red, cyan, blue);*/
+/*    background: repeating-radial-gradient(red,cyan, blue 10px);*/
+    background: radial-gradient(red, cyan, blue 200px)
+
+}   

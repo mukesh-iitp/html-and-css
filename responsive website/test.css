@@ -1,0 +1,39 @@
+
+#div1{
+    width: 32%;
+    height: 300px;
+    margin: 0.44%;
+    background-color: #ff8989;
+    display: inline-block;
+}
+
+#div2{
+    width: 32%;
+    height: 300px;
+    margin: 0.44%;
+    background-color: #88f7ce;
+    display: inline-block;
+}
+
+#div3{
+    width: 32%;
+    height: 300px;
+    margin: 0.44%;
+    background-color: #e29df2;
+    display: inline-block;
+}
+
+@media screen and (max-width: 600px){
+    #div1{
+        width: 100%;
+/*        display: block;*/
+    }
+    #div2{
+        width: 100%;
+/*        display: block;*/
+    }
+    #div3{
+        width: 100%;
+/*        display: block;*/
+    }
+}
