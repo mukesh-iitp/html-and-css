@@ -1,0 +1,54 @@
+
+#outer-div1{
+     height: 12rem;
+/* EM - 1 em = font size of the parent   */
+/*   20em;*/
+/* REM - font sie of Relative to Root Element 1 REM = 16px   */
+/*    4rem;*/
+/*    viewport height*/
+/*     75vh;*/
+/*    200px;*/
+
+    width: 18rem;
+
+/*     10em;*/
+/*    6rem;*/
+/*viewport width*/
+/*     90vw;*/
+/*    300px;*/
+/*    background-color: red;*/
+    background-color: #393a7b;
+/*RGBA-Red Green Blue Alpha combination*/
+/*    background-color: rgb(25, 126, 200);*/
+/*    background-color: rgb(25, 126, 200, 1);*/
+/*HSL-Hue Sauration Ligthness Alpha combination*/
+/*    background-color: hsl(105,78%,44%);*/
+/*    background-color: hsla(180,78%,44%,.50); */
+    
+/*    border-width: 2px 8px 4px 6px;*/
+/*    border-width: 2px 8px;*/
+
+    /*border-width: 4px;
+    border-style: solid;
+    border-color: red;
+*/
+/*Combined border property*/
+
+    border: 4px solid red;
+    border-radius: 4px;
+}
+
+#inner-div1{
+
+/*    height: 100px;*/
+    height: 50%;
+/*    width: 150px;*/
+    width: 50%;
+    background-color: cyan;
+
+}
+
+#sample-para{
+/*    border: 2px solid red;*/
+    border-left: 2px solid red;
+}
